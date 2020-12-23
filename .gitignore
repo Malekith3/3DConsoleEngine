@@ -1,0 +1,7 @@
+*.sln
+.vs
+/3DEngine/*.vcxproj
+/3DEngine/*.filters
+/3DEngine/*.user
+/3DEngine/obj
+/bin
